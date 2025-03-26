@@ -1,6 +1,4 @@
-<template>
-
-  <div class="h-screen flex flex-col">
+<div class="h-screen flex flex-col">
 
     <header class="flex items-center h-14 sm:h-16 px-4 md:px-6 lg:px-8 border-b border-gray-300">
       <div>
@@ -29,8 +27,3 @@
     </footer>
 
   </div>
-</template>
-
-<script lang="ts">
-import { RouterLink, RouterView } from 'vue-router';
-</script>
