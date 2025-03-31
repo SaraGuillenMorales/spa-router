@@ -12,7 +12,7 @@
         marginwidth="0"
         title="map"
         scrolling="no"
-        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3080.145999729428!2d-0.3800200250659266!3d39.466030271608254!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd604f35909b5015%3A0x83499d175a2c11b4!2sVal%C3%A8ncia-Nord!5e0!3m2!1ses!2ses!4v1743016496573!5m2!1ses!2ses"
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3079.362756509976!2d-0.34660722314521986!3d39.48372267160475!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd60488259073375%3A0xfb410ba707ca33c9!2sUPV%20-%20Facultad%20de%20Bellas%20Artes%20BBAA!5e0!3m2!1ses!2ses!4v1714248879470!5m2!1ses!2ses"
         style=""
       ></iframe>
     </div>
